@@ -22,3 +22,5 @@ Meaning it cannot be taken away
 
 Let us first have a conversation at the start. In this conversation we might get tasks.
 Let's create the new internet.
+
+The conversation can start at discussion
